@@ -1,5 +1,5 @@
 {
-    "foodArray": [
+    "foodArray": 
         {
             "soup": [
                 {
@@ -185,5 +185,5 @@
 
             ]
         }
-    ]
+    
 }
