@@ -1,189 +1,182 @@
 {
-    "foodArray": 
-    {
-            "soup": [
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                },
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                },
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                },
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                },
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                },
-                {
-                    "name": "mushroom soup",
-                    "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
-                    "price": 2,
-                    "description": "its just mushroom soup"
-                },
-                {
-                    "name": "beetroot",
-                    "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
-                    "price": 3,
-                    "description": "its just beetroot"
-                }
-
-            ],
-            "dessert": [
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                },
-                {
-                    "name": "cake",
-                    "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
-                    "price": 20,
-                    "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
-                }
-
-            ],
-            "vegetables": [
-                {
-                    "name": "carrot",
-                    "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
-                    "price": 1,
-                    "description": "its just carrot"
-                },
-                {
-                    "name": "potato",
-                    "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
-                    "price": 1,
-                    "description": "its just potato"
-                },
-                {
-                    "name": "beet",
-                    "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
-                    "price": 1,
-                    "description": "its just beet"
-                },
-                {
-                    "name": "carrot",
-                    "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
-                    "price": 1,
-                    "description": "its just carrot"
-                },
-                {
-                    "name": "potato",
-                    "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
-                    "price": 1,
-                    "description": "its just potato"
-                },
-                {
-                    "name": "beet",
-                    "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
-                    "price": 1,
-                    "description": "its just beet"
-                },
-                {
-                    "name": "carrot",
-                    "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
-                    "price": 1,
-                    "description": "its just carrot"
-                },
-                {
-                    "name": "potato",
-                    "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
-                    "price": 1,
-                    "description": "its just potato"
-                },
-                {
-                    "name": "beet",
-                    "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
-                    "price": 1,
-                    "description": "its just beet"
-                }
-
-            ]
-    }
-    
+    "soup": [
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        },
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        },
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        },
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        },
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        },
+        {
+            "name": "mushroom soup",
+            "img": "https://minecraftgaming.ru/wp-content/uploads/2015/10/Mushroomsoup.png",
+            "price": 2,
+            "description": "its just mushroom soup"
+        },
+        {
+            "name": "beetroot",
+            "img": "https://playzone.in.ua/wiki/mc/images/5/5d/Beetrootsoup.png",
+            "price": 3,
+            "description": "its just beetroot"
+        }
+    ],
+    "dessert": [
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        },
+        {
+            "name": "cake",
+            "img": "https://w7.pngwing.com/pngs/183/895/png-transparent-minecraft-pocket-edition-cupcake-food-minecraft-heart-food-recipe-rectangle.png",
+            "price": 20,
+            "description": "cake with three buckets of milk, two sugars, one egg, two tablespoons of sugar, and three wheat"
+        }
+    ],
+    "vegetables": [
+        {
+            "name": "carrot",
+            "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
+            "price": 1,
+            "description": "its just carrot"
+        },
+        {
+            "name": "potato",
+            "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
+            "price": 1,
+            "description": "its just potato"
+        },
+        {
+            "name": "beet",
+            "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
+            "price": 1,
+            "description": "its just beet"
+        },
+        {
+            "name": "carrot",
+            "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
+            "price": 1,
+            "description": "its just carrot"
+        },
+        {
+            "name": "potato",
+            "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
+            "price": 1,
+            "description": "its just potato"
+        },
+        {
+            "name": "beet",
+            "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
+            "price": 1,
+            "description": "its just beet"
+        },
+        {
+            "name": "carrot",
+            "img": "https://www.pngitem.com/pimgs/m/111-1115675_minecraft-carrot-png-download-minecraft-carrot-png-transparent.png",
+            "price": 1,
+            "description": "its just carrot"
+        },
+        {
+            "name": "potato",
+            "img": "https://i.pinimg.com/originals/15/99/50/1599507ce285e9e15cee9fc9e54400e3.jpg",
+            "price": 1,
+            "description": "its just potato"
+        },
+        {
+            "name": "beet",
+            "img": "https://static.wikia.nocookie.net/minecraft/images/5/56/Beetroot.png/revision/latest?cb=20190908184614",
+            "price": 1,
+            "description": "its just beet"
+        }
+    ]
 }
