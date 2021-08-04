@@ -1,6 +1,6 @@
 {
     "foodArray": 
-        [
+    {
             "soup": [
                 {
                     "name": "mushroom soup",
@@ -184,6 +184,6 @@
                 }
 
             ]
-        ]
+    }
     
 }
